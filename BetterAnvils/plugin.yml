@@ -1,0 +1,8 @@
+name: BetterAnvils
+version: 1.0
+api-version: 1.17
+main: com.betteranvils.main.BetterAnvils
+author: Unfairbody96
+commands:
+  anvils:
+    description: BetterAnvils main command.
